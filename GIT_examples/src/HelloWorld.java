@@ -5,5 +5,6 @@ public class HelloWorld {
 		// TODO Auto-generated method stub
 		int b = 5;
 		System.out.println(b+1);	System.out.println(b+12);
+		int x=5;
 	}
 }
